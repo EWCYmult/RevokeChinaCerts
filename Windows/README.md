@@ -1,10 +1,10 @@
 ﻿RevokeChinaCerts on Windows
 ==============
-
+。。。
 ### Introduction
 There are 2 types of batches:
 * Online: Verifys Internet connection certificates.
-  * Online - Revoke or restore online certificates in system store.
+  * Online - Revoke or restore online certificates in system st
   * Firefox - Revoke or restore online certificates in Firefox NSS.
   * Update - Update or reset online certificates in system store.
 * CodeSigning and Organization: Verifys software publisher and organization certificates.
